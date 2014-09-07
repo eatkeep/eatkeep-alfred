@@ -1,6 +1,8 @@
 eatkeep Alfred Workflow
 =======================
 
+This is an aflred work for the eatkeep food diary for mac available at http://www.eatkeep.io/mac/
+
 This workflow will let you either:
 
 1. Add meal with "eat [meal]". This will prompt you for confirmation before the meal is added
